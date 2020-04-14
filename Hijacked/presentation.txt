@@ -1,0 +1,6 @@
+Bienvenu sur la version alpha de Hijacked !
+
+Hijacked est une simulation inspirée de faits réels passés dans la ville de Roissy en Brie. Vous controllez une jeune lycéenne du nom de Carla. Vous avancez dans l'histoire grâce à des choix que vous ferez avec la commande 'selectionner un sms'.  ATTENTION ! Un message envoyé ne peut être annulé. De plus, certains messages envoyés changent l'histoire de manière considérable. 
+
+Vous commencez ici. Carla revient de boite et le lendemain un homme du nom de Paco lui envoi un message.
+A vous de décider du destin de Carla! Bonne chance!
